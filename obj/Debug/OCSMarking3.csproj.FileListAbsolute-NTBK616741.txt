@@ -1,0 +1,31 @@
+C:\Users\h238397\source\repos\OCSMarking3\bin\Debug\OCSMarking3.exe.config
+C:\Users\h238397\source\repos\OCSMarking3\bin\Debug\OCSMarking3.exe
+C:\Users\h238397\source\repos\OCSMarking3\bin\Debug\OCSMarking3.pdb
+C:\Users\h238397\source\repos\OCSMarking3\bin\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.Form1.resources
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.Properties.Resources.resources
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.csproj.GenerateResource.cache
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.csproj.CopyComplete
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.exe
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.pdb
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.FormReadALl.resources
+C:\Users\h238397\source\repos\OCSMarking3\bin\Debug\OCSMarkingDLL.pdb
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.Frmtest.resources
+C:\Users\h238397\source\repos\OCSMarking3\obj\Debug\OCSMarking3.csprojAssemblyReference.cache
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\bin\Debug\OCSMarking3.exe.config
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\bin\Debug\OCSMarking3.exe
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\bin\Debug\OCSMarking3.pdb
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\bin\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\bin\Debug\OCSMarkingDLL.pdb
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.Form1.resources
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.FormReadALl.resources
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.Frmtest.resources
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.Properties.Resources.resources
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.csproj.GenerateResource.cache
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.csproj.CoreCompileInputs.cache
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.csproj.CopyComplete
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.exe
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.pdb
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.FormNumPatrn.resources
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarking3\obj\Debug\OCSMarking3.csprojAssemblyReference.cache

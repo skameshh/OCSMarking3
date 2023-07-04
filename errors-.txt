@@ -1,0 +1,25 @@
+﻿
+
+
+
+----------------------28th Apritl -----------------
+Jaga, still 2 fonts only for selection, Material number stats with M and follows by Production number
+
+rev = R-A  still shows
+
+#5041 for X value
+
+1) 2 fonts only available selection, 
+2)  For GC  and IC part number is missing and replaced with production order number
+
+3) For IC only 4 lines only there, suppose 5 lines need to mark
+
+need to remove Rev , currently showing R in program output
+
+5) thread description not working for characters, shows 9 for each character, also this should be before country of origin
+
+so far i find only this much ,please check further and ready with error free DLL on wednesday
+
+
+----------------------
+
